@@ -1,7 +1,7 @@
 1.develop1 develop2
 2. develop3
 3.
-4.
+4. 어플 실행 오류 수정 
 5.
 6.
 7.
